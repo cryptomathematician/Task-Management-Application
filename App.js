@@ -12,6 +12,12 @@ export default function App() {
   const images = [
     { src: require('./assets/card2.png')},
     { src: require('./assets/card3.png')},
+    { src: require('./assets/Foods.jpeg'), label: 'Cook' },
+    { src: require('./assets/project.jpeg'), label: 'Project' },
+    { src: require('./assets/SocialMedia.jpeg'), label: 'Social Media' },
+    { src: require('./assets/Trading.jpeg'), label: 'Code' },
+    { src: require('./assets/teamWork.jpeg'), label: 'Team Work' },
+    { src: require('./assets/Meeting.jpeg'), label: 'Meeting' },
     // Add more images as needed
   ];
  
