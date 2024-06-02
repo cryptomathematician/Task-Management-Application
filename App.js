@@ -92,6 +92,15 @@ export default function App() {
               <View style={styles.taskCard}>
               <Text style={styles.taskText}>Strategic Planning</Text>
               </View> 
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>Healthy Breakfast</Text>
+              </View> 
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>Open Source Contribution</Text>
+              </View> 
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>Reading</Text>
+              </View> 
             </View>
           </View>
     </ScrollView>
