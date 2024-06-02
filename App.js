@@ -65,6 +65,33 @@ export default function App() {
               <View style={styles.taskCard}>
                 <Text style={styles.taskText}>Push Ups</Text>
               </View>
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>Design Mockups</Text>
+              </View>
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>Content Creation</Text>
+              </View>
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>Social Media Posting</Text>
+              </View>
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>Market Research</Text>
+              </View>
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>Financial Reporting</Text>
+              </View>
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>HR Onboarding</Text>
+              </View>
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>IT System Maintenance</Text>
+              </View>
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>Operations Optimization</Text>
+              </View>
+              <View style={styles.taskCard}>
+              <Text style={styles.taskText}>Strategic Planning</Text>
+              </View> 
             </View>
           </View>
     </ScrollView>
